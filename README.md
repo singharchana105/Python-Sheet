@@ -128,7 +128,7 @@ Array Slicing : arr[1:4]
 Array Statistics :  np.mean(arr), np.median(arr), np.std(arr)
 
 
-# 11. Pandas for Data Handling:
+# 11. Pandas for Data Handling :
 
 Import Pandas : import pandas as pd
 
