@@ -2,7 +2,7 @@
 
 # 1. Basic Python Syntax:                                                               
 
-Print to Console   :                                                  print("Hello, World!")
+Print to Console   :  print("Hello, World!")
 
 Variable Assignment :      x = 10
 
