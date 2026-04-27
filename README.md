@@ -4,7 +4,7 @@
 
 Print to Console   :  print("Hello, World!")
 
-Variable Assignment :      x = 10
+Variable Assignment :     x = 10
 
 Input from User : name = input("Enter your name: ")
 
