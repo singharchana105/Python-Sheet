@@ -35,7 +35,7 @@ Access Dictionary Value : my_dict["key1"]
 Add Key-Value Pair :  my_dict["key3"] = "value3"
 
 
-# 3. Control Flow:
+# 3. Control Flow :
 
 If Statement : if x > 10: print("x is greater than 10")
 
